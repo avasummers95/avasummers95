@@ -1,14 +1,13 @@
 ---
-title: Our Coffee
-type: products
+title: Ava Summers 
+type: Ava Summers
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Ava Summers is the ultimate for those who want to explore their bodies
+  and minds with a beautiful lady.  We take your experience
+  seriously and we’re glad to pass that on to anyone.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
